@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bubill.github.io
+title: kangland
+tagline: EMT-K
+description: EMT-K
+paginate: 10
