@@ -3,4 +3,3 @@ published: true
 title: 英语母语 EMT-K
 layout: post
 
-![](https://pic1.zhimg.com/f19fcbac52b52c972fb9db28dbf58150_b.jpg)
